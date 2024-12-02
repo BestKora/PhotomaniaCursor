@@ -1,6 +1,4 @@
-<p align="center">  
- iOS app for searching images using Flickr API written in Swift 5 and SwiftUI
-</p>
+##Cursor AI in iOS development. PhotomaniaCursor app "Photos from Flickr.com"
 
 
 ## Content
