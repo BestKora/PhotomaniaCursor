@@ -1,11 +1,15 @@
-##Cursor AI in iOS development. PhotomaniaCursor app "Photos from Flickr.com"
+## Cursor AI in iOS development. PhotomaniaCursor app "Photos from Flickr.com"
 
 
 ## Content
+- [Task](#task)
 - [Demo](#demo)
 - [App Features](#app-features)
 - [Technologies](#technologies)
 
+## Task
+
+![til](https://github.com/BestKora/PhotomaniaCursor/blob/a63e95f853f79cbcf5d24af5b14554a3e6d711c6/PhotomaniaCursor/PhotomaniaCursorDemo.gif)
 
 ## Demo
 
@@ -13,9 +17,6 @@
 
 ## App Features
 
-* Browse images from flickr with specific term
-* Loading indicator while downloading image
-*
 - The list of photos is retrieved using an API from Flickr like:
 https://api.flickr.com/services/feeds/photos_public.gne?format=json&nojsoncallback=1&tags=porcupine
 (replace the word "porcupine" with what the user entered).
@@ -30,7 +31,7 @@ https://api.flickr.com/services/feeds/photos_public.gne?format=json&nojsoncallba
 
 ## Technologies
 
-* MVVM design pattern with binding
+* MVVM design pattern 
 * SwiftUI
-* External API (Flickr)
+* Combine
 * async / await
