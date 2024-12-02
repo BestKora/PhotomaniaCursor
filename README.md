@@ -23,10 +23,10 @@ https://api.flickr.com/services/feeds/photos_public.gne?format=json&nojsoncallba
 - The search results should be updated after each keystroke or search string change.
 - When performing a search, a progress indicator is shown without blocking the Ui.
 - When clicking on an image, a View should be shown with detailed information about the photo:
-- The photo itself
-- A Text element displaying the title
-- A Text element displaying the author
-- A Text element displaying a formatted version of the publication date
+..* The photo itself
+..* A Text element displaying the title
+..* A Text element displaying the author
+..* A Text element displaying a formatted version of the publication date
 
 
 ## Technologies
