@@ -2,14 +2,14 @@
 
 
 ## Content
-- [Task](#task)
+- [Task for Cursor AI](#task)
 - [Demo](#demo)
 - [App Features](#app-features)
 - [Technologies](#technologies)
 
-## Task
+## Task for Cursor AI
 
-![til](https://github.com/BestKora/PhotomaniaCursor/blob/a63e95f853f79cbcf5d24af5b14554a3e6d711c6/PhotomaniaCursor/PhotomaniaCursorDemo.gif)
+![til](https://github.com/BestKora/PhotomaniaCursor/blob/a6ad270f2a8b50b1bcb38e8c0e9a6b37e8ba6afb/PhotomaniaCursor/PhotomaniaCursorTask.png)
 
 ## Demo
 
