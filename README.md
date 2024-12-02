@@ -9,7 +9,7 @@
 
 ## Demo
 
-![til](./mvvm-flickr-autolayout/example.gif)
+![til](https://github.com/BestKora/PhotomaniaCursor/blob/a63e95f853f79cbcf5d24af5b14554a3e6d711c6/PhotomaniaCursor/PhotomaniaCursorDemo.gif)
 
 ## App Features
 
