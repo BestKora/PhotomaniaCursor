@@ -15,9 +15,17 @@
 
 * Browse images from flickr with specific term
 * Loading indicator while downloading image
-* Fullscreen image with title
-* Save image to phone gallery
-* Profile screen with static information
+*
+- The list of photos is retrieved using an API from Flickr like:
+https://api.flickr.com/services/feeds/photos_public.gne?format=json&nojsoncallback=1&tags=porcupine
+(replace the word "porcupine" with what the user entered).
+- The search results should be updated after each keystroke or search string change.
+- When performing a search, a progress indicator is shown without blocking the Ui.
+- When clicking on an image, a View should be shown with detailed information about the photo:
+- The photo itself
+- A Text element displaying the title
+- A Text element displaying the author
+- A Text element displaying a formatted version of the publication date
 
 
 ## Technologies
