@@ -22,7 +22,9 @@ struct ContentView: View {
                 Color.black.opacity(0.1)
                 
                 ScrollView {
-                    LazyVGrid(columns: columns, spacing: 1) {
+                    LazyVGrid (columns:
+                                [GridItem(.adaptive(minimum: 108, maximum: .infinity), spacing: 0)],spacing:0){
+                 //   LazyVGrid(columns: columns, spacing: 1) {
                         ForEach(viewModel.photos) { photo in
                             NavigationLink(destination: PhotoDetailView(photo: photo)) {
                                 PhotoGridItem(photo: photo)
